@@ -19,15 +19,15 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
-header-item2-link: /YOUR_REPOSITORY_NAME/about
-header-item3-link: /YOUR_REPOSITORY_NAME/blogs
-header-item4-link: /YOUR_REPOSITORY_NAME/projects
+header-item1-link: /portfolio
+header-item2-link: /portfolio/about
+header-item3-link: /portfolio/blogs
+header-item4-link: /portfolio/projects
 cta-item2: Resume
 cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
@@ -42,7 +42,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Jignesh2003
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,10 +76,10 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Jignesh Rana,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: Java
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -98,11 +98,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:jignesh.bharat.rana@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: jignesh.bharat.rana@gmail.com
 isNewTab: true
 
 -- end: ftd.row
@@ -116,7 +116,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/jignesh-rana-185b5113a
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -124,15 +124,15 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Jignesh2003
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/jignesh.r4103
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:jignesh.bharat.rana@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -168,10 +168,10 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Jignesh Rana,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: Java
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -190,11 +190,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:jignesh.bharat.rana@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: jignesh.bharat.rana@gmail.com
 isNewTab: true
 
 -- end: ftd.row
@@ -207,7 +207,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/jignesh-rana-185b5113a
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -215,15 +215,15 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Jignesh2003
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/jignesh.r4103
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:jignesh.bharat.rana@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
